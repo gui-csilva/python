@@ -1,4 +1,6 @@
-#Essa função calcula o reesutado do número fatorial
+#Essa função calcula o resultado fatorial de um numero.
+#Param: parametro - Integer
+#Return: b - Integer
 def fatorial(parametro):
 	a = int(parametro)
 	b = a * (a - 1)
@@ -7,7 +9,10 @@ def fatorial(parametro):
 		a = a - 1
 		b = b * a
 	return b
-#Essa função valida se o número digitado é valido se for o programa continua se não for aparece que o número não é valido e fala para tentar novamente
+
+#Fornecido como parametro um numero inteiro, validamos se o numero e 0, 1, negativo ou maior que 15
+#Param: ncalculado - Integer
+#Response: a - Integer
 def validarInput(ncalculado):
 	a = int(ncalculado)
 	if a == 0 or a == 1:
@@ -20,7 +25,11 @@ def validarInput(ncalculado):
 		return validarInput(a)
 	return a
 
-#Essa fun~ção faz com que se forme a conta inteira
+
+#Fornecido 2 parametros, um numero para se calular o fatorial e o resultado deste numero fatorial, a funcao imprime de modo verboso o que esta sendo calculado
+#Param - numeroCalulado - Integer (numero a ser calculado)
+#Param - resultado - Integer (Calculo fatorial do numero calculado)
+#return - string - String (Frase concatenada com a equacao total)
 def imprimirResposta(numeroCalculado, resultado):
 	a = numeroCalculado
 	string = ""
@@ -31,7 +40,7 @@ def imprimirResposta(numeroCalculado, resultado):
 	string = string + str(a) + " = " + str(resultado)
 	return string
 
-#Essa função é o centro do código, ela recebee todas as funções e entrega ao usuario as informações
+#Essa função é o centro do código, ela chama todas as funções.
 def main():
 	a = input("Escolha um número de 15 para baixo: ")
 	numeroInserido = validarInput(a)
@@ -39,4 +48,6 @@ def main():
 	impressao = imprimirResposta(numeroInserido, resultado)
 	print(impressao)
 
+
+#Vitor Vannuchi adicionou este comentario.
 main()
