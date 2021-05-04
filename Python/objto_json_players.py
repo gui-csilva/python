@@ -1,13 +1,4 @@
 jogador = {
-for value in jogador["items"]:
-  print(value["first_name"])
-  print(value["common_name"])
-  print(value["last_name"])
-  print(value["foot"])
-  print(value["name"])
-  print(value["shooting"])
-  print(value["passing"])
-  print(value["shot_power"])
   "count": 20,
   "count_total": 20542,
   "page": 5,
@@ -18,7 +9,7 @@ for value in jogador["items"]:
       "id": 93971,
       "resource_id": 246529,
       "name": "Bergkamp",
-      "age": null,
+      "age": None,
       "resource_base_id": 246529,
       "fut_bin_id": 28708,
       "fut_wiz_id": 19816,
@@ -26,23 +17,23 @@ for value in jogador["items"]:
       "last_name": "Bergkamp",
       "common_name": "Bergkamp",
       "height": 183,
-      "weight": null,
-      "birth_date": null,
+      "weight": None,
+      "birth_date": None,
       "league": 2118,
       "nation": 34,
       "club": 112658,
       "rarity": 84,
       "traits": [],
       "specialities": [],
-      "tradeable": true,
+      "tradeable": True,
       "position": "CF",
       "skill_moves": 4,
       "weak_foot": 4,
       "foot": "Right",
       "attack_work_rate": "MED",
       "defense_work_rate": "MED",
-      "total_stats": null,
-      "total_stats_in_game": null,
+      "total_stats": None,
+      "total_stats_in_game": None,
       "rating": 93,
       "rating_average": 79,
       "pace": 85,
@@ -80,7 +71,7 @@ for value in jogador["items"]:
         "composure": 98
       },
       "defending_attributes": {
-        "interceptions": null,
+        "interceptions": None,
         "heading_accuracy": 73,
         "standing_tackle": 42,
         "sliding_tackle": 37
@@ -92,18 +83,18 @@ for value in jogador["items"]:
         "aggression": 75
       },
       "goalkeeper_attributes": {
-        "diving": null,
-        "handling": null,
-        "kicking": null,
-        "positioning": null,
-        "reflexes": null
+        "diving": None,
+        "handling": None,
+        "kicking": None,
+        "positioning": None,
+        "reflexes": None
       }
     },
     {
       "id": 93972,
       "resource_id": 246503,
       "name": "Madeira Caeiro Figo",
-      "age": null,
+      "age": None,
       "resource_base_id": 246503,
       "fut_bin_id": 28707,
       "fut_wiz_id": 19818,
@@ -111,23 +102,23 @@ for value in jogador["items"]:
       "last_name": "Madeira Caeiro Figo",
       "common_name": "Luís Figo",
       "height": 180,
-      "weight": null,
-      "birth_date": null,
+      "weight": None,
+      "birth_date": None,
       "league": 2118,
       "nation": 38,
       "club": 112658,
       "rarity": 84,
       "traits": [],
       "specialities": [],
-      "tradeable": true,
+      "tradeable": True,
       "position": "RM",
       "skill_moves": 4,
       "weak_foot": 4,
       "foot": "Right",
       "attack_work_rate": "HIGH",
       "defense_work_rate": "LOW",
-      "total_stats": null,
-      "total_stats_in_game": null,
+      "total_stats": None,
+      "total_stats_in_game": None,
       "rating": 93,
       "rating_average": 82,
       "pace": 93,
@@ -165,7 +156,7 @@ for value in jogador["items"]:
         "composure": 86
       },
       "defending_attributes": {
-        "interceptions": null,
+        "interceptions": None,
         "heading_accuracy": 65,
         "standing_tackle": 42,
         "sliding_tackle": 39
@@ -177,18 +168,18 @@ for value in jogador["items"]:
         "aggression": 78
       },
       "goalkeeper_attributes": {
-        "diving": null,
-        "handling": null,
-        "kicking": null,
-        "positioning": null,
-        "reflexes": null
+        "diving": None,
+        "handling": None,
+        "kicking": None,
+        "positioning": None,
+        "reflexes": None
       }
     },
     {
       "id": 93973,
       "resource_id": 246528,
       "name": "Puyol Saforcada",
-      "age": null,
+      "age": None,
       "resource_base_id": 246528,
       "fut_bin_id": 28706,
       "fut_wiz_id": 19819,
@@ -196,23 +187,23 @@ for value in jogador["items"]:
       "last_name": "Puyol Saforcada",
       "common_name": "Carles Puyol",
       "height": 178,
-      "weight": null,
-      "birth_date": null,
+      "weight": None,
+      "birth_date": None,
       "league": 2118,
       "nation": 45,
       "club": 112658,
       "rarity": 84,
       "traits": [],
       "specialities": [],
-      "tradeable": true,
+      "tradeable": True,
       "position": "CB",
       "skill_moves": 2,
       "weak_foot": 3,
       "foot": "Right",
       "attack_work_rate": "MED",
       "defense_work_rate": "HIGH",
-      "total_stats": null,
-      "total_stats_in_game": null,
+      "total_stats": None,
+      "total_stats_in_game": None,
       "rating": 93,
       "rating_average": 73,
       "pace": 75,
@@ -250,7 +241,7 @@ for value in jogador["items"]:
         "composure": 87
       },
       "defending_attributes": {
-        "interceptions": null,
+        "interceptions": None,
         "heading_accuracy": 94,
         "standing_tackle": 96,
         "sliding_tackle": 95
@@ -262,18 +253,18 @@ for value in jogador["items"]:
         "aggression": 94
       },
       "goalkeeper_attributes": {
-        "diving": null,
-        "handling": null,
-        "kicking": null,
-        "positioning": null,
-        "reflexes": null
+        "diving": None,
+        "handling": None,
+        "kicking": None,
+        "positioning": None,
+        "reflexes": None
       }
     },
     {
       "id": 93974,
       "resource_id": 258862,
       "name": "Beckham",
-      "age": null,
+      "age": None,
       "resource_base_id": 258862,
       "fut_bin_id": 28705,
       "fut_wiz_id": 19821,
@@ -281,23 +272,23 @@ for value in jogador["items"]:
       "last_name": "Beckham",
       "common_name": "Beckham",
       "height": 182,
-      "weight": null,
-      "birth_date": null,
+      "weight": None,
+      "birth_date": None,
       "league": 2118,
       "nation": 14,
       "club": 112658,
       "rarity": 84,
       "traits": [],
       "specialities": [],
-      "tradeable": true,
+      "tradeable": True,
       "position": "RM",
       "skill_moves": 3,
       "weak_foot": 3,
       "foot": "Right",
       "attack_work_rate": "HIGH",
       "defense_work_rate": "HIGH",
-      "total_stats": null,
-      "total_stats_in_game": null,
+      "total_stats": None,
+      "total_stats_in_game": None,
       "rating": 93,
       "rating_average": 86,
       "pace": 84,
@@ -335,7 +326,7 @@ for value in jogador["items"]:
         "composure": 97
       },
       "defending_attributes": {
-        "interceptions": null,
+        "interceptions": None,
         "heading_accuracy": 74,
         "standing_tackle": 70,
         "sliding_tackle": 64
@@ -347,18 +338,18 @@ for value in jogador["items"]:
         "aggression": 84
       },
       "goalkeeper_attributes": {
-        "diving": null,
-        "handling": null,
-        "kicking": null,
-        "positioning": null,
-        "reflexes": null
+        "diving": None,
+        "handling": None,
+        "kicking": None,
+        "positioning": None,
+        "reflexes": None
       }
     },
     {
       "id": 93975,
       "resource_id": 246499,
       "name": "Nesta",
-      "age": null,
+      "age": None,
       "resource_base_id": 246499,
       "fut_bin_id": 28704,
       "fut_wiz_id": 19817,
@@ -366,23 +357,23 @@ for value in jogador["items"]:
       "last_name": "Nesta",
       "common_name": "Nesta",
       "height": 187,
-      "weight": null,
-      "birth_date": null,
+      "weight": None,
+      "birth_date": None,
       "league": 2118,
       "nation": 27,
       "club": 112658,
       "rarity": 84,
       "traits": [],
       "specialities": [],
-      "tradeable": true,
+      "tradeable": True,
       "position": "CB",
       "skill_moves": 2,
       "weak_foot": 3,
       "foot": "Right",
       "attack_work_rate": "MED",
       "defense_work_rate": "HIGH",
-      "total_stats": null,
-      "total_stats_in_game": null,
+      "total_stats": None,
+      "total_stats_in_game": None,
       "rating": 93,
       "rating_average": 73,
       "pace": 74,
@@ -420,7 +411,7 @@ for value in jogador["items"]:
         "composure": 79
       },
       "defending_attributes": {
-        "interceptions": null,
+        "interceptions": None,
         "heading_accuracy": 89,
         "standing_tackle": 97,
         "sliding_tackle": 98
@@ -432,18 +423,18 @@ for value in jogador["items"]:
         "aggression": 88
       },
       "goalkeeper_attributes": {
-        "diving": null,
-        "handling": null,
-        "kicking": null,
-        "positioning": null,
-        "reflexes": null
+        "diving": None,
+        "handling": None,
+        "kicking": None,
+        "positioning": None,
+        "reflexes": None
       }
     },
     {
       "id": 93976,
       "resource_id": 246509,
       "name": "Stoichkov",
-      "age": null,
+      "age": None,
       "resource_base_id": 246509,
       "fut_bin_id": 28703,
       "fut_wiz_id": 19820,
@@ -451,23 +442,23 @@ for value in jogador["items"]:
       "last_name": "Stoichkov",
       "common_name": "Stoichkov",
       "height": 178,
-      "weight": null,
-      "birth_date": null,
+      "weight": None,
+      "birth_date": None,
       "league": 2118,
       "nation": 9,
       "club": 112658,
       "rarity": 84,
       "traits": [],
       "specialities": [],
-      "tradeable": true,
+      "tradeable": True,
       "position": "ST",
       "skill_moves": 4,
       "weak_foot": 3,
       "foot": "Left",
       "attack_work_rate": "MED",
       "defense_work_rate": "MED",
-      "total_stats": null,
-      "total_stats_in_game": null,
+      "total_stats": None,
+      "total_stats_in_game": None,
       "rating": 93,
       "rating_average": 85,
       "pace": 94,
@@ -505,7 +496,7 @@ for value in jogador["items"]:
         "composure": 92
       },
       "defending_attributes": {
-        "interceptions": null,
+        "interceptions": None,
         "heading_accuracy": 85,
         "standing_tackle": 54,
         "sliding_tackle": 49
@@ -517,18 +508,18 @@ for value in jogador["items"]:
         "aggression": 94
       },
       "goalkeeper_attributes": {
-        "diving": null,
-        "handling": null,
-        "kicking": null,
-        "positioning": null,
-        "reflexes": null
+        "diving": None,
+        "handling": None,
+        "kicking": None,
+        "positioning": None,
+        "reflexes": None
       }
     },
     {
       "id": 93977,
       "resource_id": 246527,
       "name": "Del Piero",
-      "age": null,
+      "age": None,
       "resource_base_id": 246527,
       "fut_bin_id": 28702,
       "fut_wiz_id": 19822,
@@ -536,23 +527,23 @@ for value in jogador["items"]:
       "last_name": "Del Piero",
       "common_name": "Del Piero",
       "height": 174,
-      "weight": null,
-      "birth_date": null,
+      "weight": None,
+      "birth_date": None,
       "league": 2118,
       "nation": 27,
       "club": 112658,
       "rarity": 84,
       "traits": [],
       "specialities": [],
-      "tradeable": true,
+      "tradeable": True,
       "position": "CF",
       "skill_moves": 4,
       "weak_foot": 5,
       "foot": "Right",
       "attack_work_rate": "HIGH",
       "defense_work_rate": "MED",
-      "total_stats": null,
-      "total_stats_in_game": null,
+      "total_stats": None,
+      "total_stats_in_game": None,
       "rating": 93,
       "rating_average": 79,
       "pace": 85,
@@ -590,7 +581,7 @@ for value in jogador["items"]:
         "composure": 95
       },
       "defending_attributes": {
-        "interceptions": null,
+        "interceptions": None,
         "heading_accuracy": 77,
         "standing_tackle": 43,
         "sliding_tackle": 37
@@ -602,18 +593,18 @@ for value in jogador["items"]:
         "aggression": 60
       },
       "goalkeeper_attributes": {
-        "diving": null,
-        "handling": null,
-        "kicking": null,
-        "positioning": null,
-        "reflexes": null
+        "diving": None,
+        "handling": None,
+        "kicking": None,
+        "positioning": None,
+        "reflexes": None
       }
     },
     {
       "id": 93998,
       "resource_id": 100845817,
       "name": "Toni Kroos",
-      "age": null,
+      "age": None,
       "resource_base_id": 182521,
       "fut_bin_id": 28751,
       "fut_wiz_id": 19844,
@@ -621,23 +612,23 @@ for value in jogador["items"]:
       "last_name": "Kroos",
       "common_name": "Kroos",
       "height": 183,
-      "weight": null,
-      "birth_date": null,
+      "weight": None,
+      "birth_date": None,
       "league": 53,
       "nation": 21,
       "club": 243,
       "rarity": 51,
       "traits": [],
       "specialities": [],
-      "tradeable": true,
+      "tradeable": True,
       "position": "CM",
       "skill_moves": 3,
       "weak_foot": 5,
       "foot": "Right",
       "attack_work_rate": "MED",
       "defense_work_rate": "MED",
-      "total_stats": null,
-      "total_stats_in_game": null,
+      "total_stats": None,
+      "total_stats_in_game": None,
       "rating": 93,
       "rating_average": 83,
       "pace": 78,
@@ -675,7 +666,7 @@ for value in jogador["items"]:
         "composure": 93
       },
       "defending_attributes": {
-        "interceptions": null,
+        "interceptions": None,
         "heading_accuracy": 61,
         "standing_tackle": 78,
         "sliding_tackle": 63
@@ -687,18 +678,18 @@ for value in jogador["items"]:
         "aggression": 64
       },
       "goalkeeper_attributes": {
-        "diving": null,
-        "handling": null,
-        "kicking": null,
-        "positioning": null,
-        "reflexes": null
+        "diving": None,
+        "handling": None,
+        "kicking": None,
+        "positioning": None,
+        "reflexes": None
       }
     },
     {
       "id": 93243,
       "resource_id": 134426450,
       "name": "Sadio Mané",
-      "age": null,
+      "age": None,
       "resource_base_id": 208722,
       "fut_bin_id": 27987,
       "fut_wiz_id": 18897,
@@ -706,23 +697,23 @@ for value in jogador["items"]:
       "last_name": "Mané",
       "common_name": "Mané",
       "height": 175,
-      "weight": null,
-      "birth_date": null,
+      "weight": None,
+      "birth_date": None,
       "league": 13,
       "nation": 136,
       "club": 9,
       "rarity": 64,
       "traits": [],
       "specialities": [],
-      "tradeable": true,
+      "tradeable": True,
       "position": "LW",
       "skill_moves": 4,
       "weak_foot": 4,
       "foot": "Right",
       "attack_work_rate": "HIGH",
       "defense_work_rate": "MED",
-      "total_stats": null,
-      "total_stats_in_game": null,
+      "total_stats": None,
+      "total_stats_in_game": None,
       "rating": 93,
       "rating_average": 82,
       "pace": 97,
@@ -760,7 +751,7 @@ for value in jogador["items"]:
         "composure": 87
       },
       "defending_attributes": {
-        "interceptions": null,
+        "interceptions": None,
         "heading_accuracy": 89,
         "standing_tackle": 45,
         "sliding_tackle": 41
@@ -772,42 +763,42 @@ for value in jogador["items"]:
         "aggression": 79
       },
       "goalkeeper_attributes": {
-        "diving": null,
-        "handling": null,
-        "kicking": null,
-        "positioning": null,
-        "reflexes": null
+        "diving": None,
+        "handling": None,
+        "kicking": None,
+        "positioning": None,
+        "reflexes": None
       }
     },
     {
       "id": 92228,
       "resource_id": 10535,
       "name": "Hernández Creus",
-      "age": null,
+      "age": None,
       "resource_base_id": 10535,
       "fut_bin_id": 26870,
-      "fut_wiz_id": null,
-      "first_name": null,
-      "last_name": null,
+      "fut_wiz_id": None,
+      "first_name": None,
+      "last_name": None,
       "common_name": "Xavi",
-      "height": null,
-      "weight": null,
-      "birth_date": null,
+      "height": None,
+      "weight": None,
+      "birth_date": None,
       "league": 2118,
       "nation": 45,
       "club": 112658,
       "rarity": 12,
       "traits": [],
       "specialities": [],
-      "tradeable": true,
+      "tradeable": True,
       "position": "CM",
-      "skill_moves": null,
-      "weak_foot": null,
-      "foot": null,
-      "attack_work_rate": null,
-      "defense_work_rate": null,
-      "total_stats": null,
-      "total_stats_in_game": null,
+      "skill_moves": None,
+      "weak_foot": None,
+      "foot": None,
+      "attack_work_rate": None,
+      "defense_work_rate": None,
+      "total_stats": None,
+      "total_stats_in_game": None,
       "rating": 93,
       "rating_average": 82,
       "pace": 81,
@@ -817,58 +808,58 @@ for value in jogador["items"]:
       "defending": 72,
       "physicality": 72,
       "pace_attributes": {
-        "acceleration": null,
-        "sprint_speed": null
+        "acceleration": None,
+        "sprint_speed": None
       },
       "shooting_attributes": {
-        "positioning": null,
-        "finishing": null,
-        "shot_power": null,
-        "long_shots": null,
-        "volleys": null,
-        "penalties": null
+        "positioning": None,
+        "finishing": None,
+        "shot_power": None,
+        "long_shots": None,
+        "volleys": None,
+        "penalties": None
       },
       "passing_attributes": {
-        "vision": null,
-        "crossing": null,
-        "free_kick_accuracy": null,
-        "short_passing": null,
-        "long_passing": null,
-        "curve": null
+        "vision": None,
+        "crossing": None,
+        "free_kick_accuracy": None,
+        "short_passing": None,
+        "long_passing": None,
+        "curve": None
       },
       "dribbling_attributes": {
-        "agility": null,
-        "balance": null,
-        "reactions": null,
-        "ball_control": null,
-        "dribbling": null,
-        "composure": null
+        "agility": None,
+        "balance": None,
+        "reactions": None,
+        "ball_control": None,
+        "dribbling": None,
+        "composure": None
       },
       "defending_attributes": {
-        "interceptions": null,
-        "heading_accuracy": null,
-        "standing_tackle": null,
-        "sliding_tackle": null
+        "interceptions": None,
+        "heading_accuracy": None,
+        "standing_tackle": None,
+        "sliding_tackle": None
       },
       "physicality_attributes": {
-        "jumping": null,
-        "stamina": null,
-        "strength": null,
-        "aggression": null
+        "jumping": None,
+        "stamina": None,
+        "strength": None,
+        "aggression": None
       },
       "goalkeeper_attributes": {
-        "diving": null,
-        "handling": null,
-        "kicking": null,
-        "positioning": null,
-        "reflexes": null
+        "diving": None,
+        "handling": None,
+        "kicking": None,
+        "positioning": None,
+        "reflexes": None
       }
     },
     {
       "id": 93265,
       "resource_id": 50385698,
       "name": "Wayne Rooney",
-      "age": null,
+      "age": None,
       "resource_base_id": 54050,
       "fut_bin_id": 28002,
       "fut_wiz_id": 18914,
@@ -876,23 +867,23 @@ for value in jogador["items"]:
       "last_name": "Rooney",
       "common_name": "Rooney",
       "height": 176,
-      "weight": null,
-      "birth_date": null,
+      "weight": None,
+      "birth_date": None,
       "league": 14,
       "nation": 14,
       "club": 91,
       "rarity": 25,
       "traits": [],
       "specialities": [],
-      "tradeable": true,
+      "tradeable": True,
       "position": "ST",
       "skill_moves": 4,
       "weak_foot": 4,
       "foot": "Right",
       "attack_work_rate": "HIGH",
       "defense_work_rate": "MED",
-      "total_stats": null,
-      "total_stats_in_game": null,
+      "total_stats": None,
+      "total_stats_in_game": None,
       "rating": 93,
       "rating_average": 87,
       "pace": 87,
@@ -930,7 +921,7 @@ for value in jogador["items"]:
         "composure": 99
       },
       "defending_attributes": {
-        "interceptions": null,
+        "interceptions": None,
         "heading_accuracy": 95,
         "standing_tackle": 70,
         "sliding_tackle": 51
@@ -942,42 +933,42 @@ for value in jogador["items"]:
         "aggression": 91
       },
       "goalkeeper_attributes": {
-        "diving": null,
-        "handling": null,
-        "kicking": null,
-        "positioning": null,
-        "reflexes": null
+        "diving": None,
+        "handling": None,
+        "kicking": None,
+        "positioning": None,
+        "reflexes": None
       }
     },
     {
       "id": 92264,
       "resource_id": 167198,
       "name": "Éric Cantona",
-      "age": null,
+      "age": None,
       "resource_base_id": 167198,
       "fut_bin_id": 985,
-      "fut_wiz_id": null,
-      "first_name": null,
-      "last_name": null,
+      "fut_wiz_id": None,
+      "first_name": None,
+      "last_name": None,
       "common_name": "Cantona",
-      "height": null,
-      "weight": null,
-      "birth_date": null,
+      "height": None,
+      "weight": None,
+      "birth_date": None,
       "league": 2118,
       "nation": 18,
       "club": 112658,
       "rarity": 12,
       "traits": [],
       "specialities": [],
-      "tradeable": true,
+      "tradeable": True,
       "position": "CF",
-      "skill_moves": null,
-      "weak_foot": null,
-      "foot": null,
-      "attack_work_rate": null,
-      "defense_work_rate": null,
-      "total_stats": null,
-      "total_stats_in_game": null,
+      "skill_moves": None,
+      "weak_foot": None,
+      "foot": None,
+      "attack_work_rate": None,
+      "defense_work_rate": None,
+      "total_stats": None,
+      "total_stats_in_game": None,
       "rating": 93,
       "rating_average": 85,
       "pace": 89,
@@ -987,58 +978,58 @@ for value in jogador["items"]:
       "defending": 53,
       "physicality": 92,
       "pace_attributes": {
-        "acceleration": null,
-        "sprint_speed": null
+        "acceleration": None,
+        "sprint_speed": None
       },
       "shooting_attributes": {
-        "positioning": null,
-        "finishing": null,
-        "shot_power": null,
-        "long_shots": null,
-        "volleys": null,
-        "penalties": null
+        "positioning": None,
+        "finishing": None,
+        "shot_power": None,
+        "long_shots": None,
+        "volleys": None,
+        "penalties": None
       },
       "passing_attributes": {
-        "vision": null,
-        "crossing": null,
-        "free_kick_accuracy": null,
-        "short_passing": null,
-        "long_passing": null,
-        "curve": null
+        "vision": None,
+        "crossing": None,
+        "free_kick_accuracy": None,
+        "short_passing": None,
+        "long_passing": None,
+        "curve": None
       },
       "dribbling_attributes": {
-        "agility": null,
-        "balance": null,
-        "reactions": null,
-        "ball_control": null,
-        "dribbling": null,
-        "composure": null
+        "agility": None,
+        "balance": None,
+        "reactions": None,
+        "ball_control": None,
+        "dribbling": None,
+        "composure": None
       },
       "defending_attributes": {
-        "interceptions": null,
-        "heading_accuracy": null,
-        "standing_tackle": null,
-        "sliding_tackle": null
+        "interceptions": None,
+        "heading_accuracy": None,
+        "standing_tackle": None,
+        "sliding_tackle": None
       },
       "physicality_attributes": {
-        "jumping": null,
-        "stamina": null,
-        "strength": null,
-        "aggression": null
+        "jumping": None,
+        "stamina": None,
+        "strength": None,
+        "aggression": None
       },
       "goalkeeper_attributes": {
-        "diving": null,
-        "handling": null,
-        "kicking": null,
-        "positioning": null,
-        "reflexes": null
+        "diving": None,
+        "handling": None,
+        "kicking": None,
+        "positioning": None,
+        "reflexes": None
       }
     },
     {
       "id": 93039,
       "resource_id": 84120476,
       "name": "Alphonso Davies",
-      "age": null,
+      "age": None,
       "resource_base_id": 234396,
       "fut_bin_id": 27949,
       "fut_wiz_id": 18847,
@@ -1046,23 +1037,23 @@ for value in jogador["items"]:
       "last_name": "Davies",
       "common_name": "Davies",
       "height": 181,
-      "weight": null,
-      "birth_date": null,
+      "weight": None,
+      "birth_date": None,
       "league": 19,
       "nation": 70,
       "club": 21,
       "rarity": 5,
       "traits": [],
       "specialities": [],
-      "tradeable": true,
+      "tradeable": True,
       "position": "LB",
       "skill_moves": 4,
       "weak_foot": 4,
       "foot": "Left",
       "attack_work_rate": "HIGH",
       "defense_work_rate": "MED",
-      "total_stats": null,
-      "total_stats_in_game": null,
+      "total_stats": None,
+      "total_stats_in_game": None,
       "rating": 93,
       "rating_average": 91,
       "pace": 99,
@@ -1100,7 +1091,7 @@ for value in jogador["items"]:
         "composure": 87
       },
       "defending_attributes": {
-        "interceptions": null,
+        "interceptions": None,
         "heading_accuracy": 77,
         "standing_tackle": 92,
         "sliding_tackle": 95
@@ -1112,18 +1103,18 @@ for value in jogador["items"]:
         "aggression": 91
       },
       "goalkeeper_attributes": {
-        "diving": null,
-        "handling": null,
-        "kicking": null,
-        "positioning": null,
-        "reflexes": null
+        "diving": None,
+        "handling": None,
+        "kicking": None,
+        "positioning": None,
+        "reflexes": None
       }
     },
     {
       "id": 92018,
       "resource_id": 84074625,
       "name": "Robert Lewandowski",
-      "age": null,
+      "age": None,
       "resource_base_id": 188545,
       "fut_bin_id": 26634,
       "fut_wiz_id": 17853,
@@ -1131,23 +1122,23 @@ for value in jogador["items"]:
       "last_name": "Lewandowski",
       "common_name": "Lewandowski",
       "height": 184,
-      "weight": null,
-      "birth_date": null,
+      "weight": None,
+      "birth_date": None,
       "league": 19,
       "nation": 37,
       "club": 21,
       "rarity": 42,
       "traits": [],
       "specialities": [],
-      "tradeable": true,
+      "tradeable": True,
       "position": "ST",
       "skill_moves": 4,
       "weak_foot": 4,
       "foot": "Right",
       "attack_work_rate": "HIGH",
       "defense_work_rate": "MED",
-      "total_stats": null,
-      "total_stats_in_game": null,
+      "total_stats": None,
+      "total_stats_in_game": None,
       "rating": 93,
       "rating_average": 79,
       "pace": 80,
@@ -1185,7 +1176,7 @@ for value in jogador["items"]:
         "composure": 91
       },
       "defending_attributes": {
-        "interceptions": null,
+        "interceptions": None,
         "heading_accuracy": 89,
         "standing_tackle": 44,
         "sliding_tackle": 20
@@ -1197,18 +1188,18 @@ for value in jogador["items"]:
         "aggression": 84
       },
       "goalkeeper_attributes": {
-        "diving": null,
-        "handling": null,
-        "kicking": null,
-        "positioning": null,
-        "reflexes": null
+        "diving": None,
+        "handling": None,
+        "kicking": None,
+        "positioning": None,
+        "reflexes": None
       }
     },
     {
       "id": 90778,
       "resource_id": 996,
       "name": "Éric Cantona",
-      "age": null,
+      "age": None,
       "resource_base_id": 996,
       "fut_bin_id": 985,
       "fut_wiz_id": 734,
@@ -1216,23 +1207,23 @@ for value in jogador["items"]:
       "last_name": "Cantona",
       "common_name": "Cantona",
       "height": 188,
-      "weight": null,
-      "birth_date": null,
+      "weight": None,
+      "birth_date": None,
       "league": 2118,
       "nation": 18,
       "club": 112658,
       "rarity": 12,
       "traits": [],
       "specialities": [],
-      "tradeable": true,
+      "tradeable": True,
       "position": "CF",
       "skill_moves": 0,
       "weak_foot": 0,
       "foot": "",
       "attack_work_rate": "HIGH",
       "defense_work_rate": "MED",
-      "total_stats": null,
-      "total_stats_in_game": null,
+      "total_stats": None,
+      "total_stats_in_game": None,
       "rating": 93,
       "rating_average": 85,
       "pace": 89,
@@ -1270,7 +1261,7 @@ for value in jogador["items"]:
         "composure": 0
       },
       "defending_attributes": {
-        "interceptions": null,
+        "interceptions": None,
         "heading_accuracy": 0,
         "standing_tackle": 0,
         "sliding_tackle": 0
@@ -1282,18 +1273,18 @@ for value in jogador["items"]:
         "aggression": 0
       },
       "goalkeeper_attributes": {
-        "diving": null,
-        "handling": null,
-        "kicking": null,
-        "positioning": null,
-        "reflexes": null
+        "diving": None,
+        "handling": None,
+        "kicking": None,
+        "positioning": None,
+        "reflexes": None
       }
     },
     {
       "id": 90779,
       "resource_id": 166906,
       "name": "Franco Baresi",
-      "age": null,
+      "age": None,
       "resource_base_id": 166906,
       "fut_bin_id": 63,
       "fut_wiz_id": 90,
@@ -1301,23 +1292,23 @@ for value in jogador["items"]:
       "last_name": "Baresi",
       "common_name": "Baresi",
       "height": 176,
-      "weight": null,
-      "birth_date": null,
+      "weight": None,
+      "birth_date": None,
       "league": 2118,
       "nation": 27,
       "club": 112658,
       "rarity": 12,
       "traits": [],
       "specialities": [],
-      "tradeable": true,
+      "tradeable": True,
       "position": "CB",
       "skill_moves": 0,
       "weak_foot": 0,
       "foot": "",
       "attack_work_rate": "MED",
       "defense_work_rate": "HIGH",
-      "total_stats": null,
-      "total_stats_in_game": null,
+      "total_stats": None,
+      "total_stats_in_game": None,
       "rating": 93,
       "rating_average": 74,
       "pace": 70,
@@ -1355,7 +1346,7 @@ for value in jogador["items"]:
         "composure": 0
       },
       "defending_attributes": {
-        "interceptions": null,
+        "interceptions": None,
         "heading_accuracy": 0,
         "standing_tackle": 0,
         "sliding_tackle": 0
@@ -1367,18 +1358,18 @@ for value in jogador["items"]:
         "aggression": 0
       },
       "goalkeeper_attributes": {
-        "diving": null,
-        "handling": null,
-        "kicking": null,
-        "positioning": null,
-        "reflexes": null
+        "diving": None,
+        "handling": None,
+        "kicking": None,
+        "positioning": None,
+        "reflexes": None
       }
     },
     {
       "id": 90780,
       "resource_id": 238435,
       "name": "Lothar Matthäus",
-      "age": null,
+      "age": None,
       "resource_base_id": 238435,
       "fut_bin_id": 121,
       "fut_wiz_id": 167,
@@ -1386,23 +1377,23 @@ for value in jogador["items"]:
       "last_name": "Matthaus",
       "common_name": "Matthäus",
       "height": 174,
-      "weight": null,
-      "birth_date": null,
+      "weight": None,
+      "birth_date": None,
       "league": 2118,
       "nation": 21,
       "club": 112658,
       "rarity": 12,
       "traits": [],
       "specialities": [],
-      "tradeable": true,
+      "tradeable": True,
       "position": "CM",
       "skill_moves": 0,
       "weak_foot": 0,
       "foot": "",
       "attack_work_rate": "HIGH",
       "defense_work_rate": "HIGH",
-      "total_stats": null,
-      "total_stats_in_game": null,
+      "total_stats": None,
+      "total_stats_in_game": None,
       "rating": 93,
       "rating_average": 87,
       "pace": 89,
@@ -1440,7 +1431,7 @@ for value in jogador["items"]:
         "composure": 0
       },
       "defending_attributes": {
-        "interceptions": null,
+        "interceptions": None,
         "heading_accuracy": 0,
         "standing_tackle": 0,
         "sliding_tackle": 0
@@ -1452,42 +1443,42 @@ for value in jogador["items"]:
         "aggression": 0
       },
       "goalkeeper_attributes": {
-        "diving": null,
-        "handling": null,
-        "kicking": null,
-        "positioning": null,
-        "reflexes": null
+        "diving": None,
+        "handling": None,
+        "kicking": None,
+        "positioning": None,
+        "reflexes": None
       }
     },
     {
       "id": 92076,
       "resource_id": 67129665,
       "name": "Cristiano Ronaldo",
-      "age": null,
+      "age": None,
       "resource_base_id": 20801,
       "fut_bin_id": 26692,
-      "fut_wiz_id": null,
-      "first_name": null,
-      "last_name": null,
+      "fut_wiz_id": None,
+      "first_name": None,
+      "last_name": None,
       "common_name": "Ronaldo",
-      "height": null,
-      "weight": null,
-      "birth_date": null,
+      "height": None,
+      "weight": None,
+      "birth_date": None,
       "league": 31,
       "nation": 38,
       "club": 114153,
       "rarity": 3,
       "traits": [],
       "specialities": [],
-      "tradeable": true,
+      "tradeable": True,
       "position": "ST",
-      "skill_moves": null,
-      "weak_foot": null,
-      "foot": null,
-      "attack_work_rate": null,
-      "defense_work_rate": null,
-      "total_stats": null,
-      "total_stats_in_game": null,
+      "skill_moves": None,
+      "weak_foot": None,
+      "foot": None,
+      "attack_work_rate": None,
+      "defense_work_rate": None,
+      "total_stats": None,
+      "total_stats_in_game": None,
       "rating": 93,
       "rating_average": 78,
       "pace": 90,
@@ -1497,58 +1488,58 @@ for value in jogador["items"]:
       "defending": 36,
       "physicality": 78,
       "pace_attributes": {
-        "acceleration": null,
-        "sprint_speed": null
+        "acceleration": None,
+        "sprint_speed": None
       },
       "shooting_attributes": {
-        "positioning": null,
-        "finishing": null,
-        "shot_power": null,
-        "long_shots": null,
-        "volleys": null,
-        "penalties": null
+        "positioning": None,
+        "finishing": None,
+        "shot_power": None,
+        "long_shots": None,
+        "volleys": None,
+        "penalties": None
       },
       "passing_attributes": {
-        "vision": null,
-        "crossing": null,
-        "free_kick_accuracy": null,
-        "short_passing": null,
-        "long_passing": null,
-        "curve": null
+        "vision": None,
+        "crossing": None,
+        "free_kick_accuracy": None,
+        "short_passing": None,
+        "long_passing": None,
+        "curve": None
       },
       "dribbling_attributes": {
-        "agility": null,
-        "balance": null,
-        "reactions": null,
-        "ball_control": null,
-        "dribbling": null,
-        "composure": null
+        "agility": None,
+        "balance": None,
+        "reactions": None,
+        "ball_control": None,
+        "dribbling": None,
+        "composure": None
       },
       "defending_attributes": {
-        "interceptions": null,
-        "heading_accuracy": null,
-        "standing_tackle": null,
-        "sliding_tackle": null
+        "interceptions": None,
+        "heading_accuracy": None,
+        "standing_tackle": None,
+        "sliding_tackle": None
       },
       "physicality_attributes": {
-        "jumping": null,
-        "stamina": null,
-        "strength": null,
-        "aggression": null
+        "jumping": None,
+        "stamina": None,
+        "strength": None,
+        "aggression": None
       },
       "goalkeeper_attributes": {
-        "diving": null,
-        "handling": null,
-        "kicking": null,
-        "positioning": null,
-        "reflexes": null
+        "diving": None,
+        "handling": None,
+        "kicking": None,
+        "positioning": None,
+        "reflexes": None
       }
     },
     {
       "id": 91622,
       "resource_id": 50489671,
       "name": "Lionel Messi",
-      "age": null,
+      "age": None,
       "resource_base_id": 158023,
       "fut_bin_id": 25795,
       "fut_wiz_id": 16943,
@@ -1556,23 +1547,23 @@ for value in jogador["items"]:
       "last_name": "Messi",
       "common_name": "Messi",
       "height": 170,
-      "weight": null,
-      "birth_date": null,
+      "weight": None,
+      "birth_date": None,
       "league": 53,
       "nation": 52,
       "club": 241,
       "rarity": 48,
       "traits": [],
       "specialities": [],
-      "tradeable": true,
+      "tradeable": True,
       "position": "RW",
       "skill_moves": 4,
       "weak_foot": 4,
       "foot": "Left",
       "attack_work_rate": "MED",
       "defense_work_rate": "LOW",
-      "total_stats": null,
-      "total_stats_in_game": null,
+      "total_stats": None,
+      "total_stats_in_game": None,
       "rating": 93,
       "rating_average": 77,
       "pace": 85,
@@ -1610,7 +1601,7 @@ for value in jogador["items"]:
         "composure": 96
       },
       "defending_attributes": {
-        "interceptions": null,
+        "interceptions": None,
         "heading_accuracy": 70,
         "standing_tackle": 35,
         "sliding_tackle": 24
@@ -1622,18 +1613,18 @@ for value in jogador["items"]:
         "aggression": 44
       },
       "goalkeeper_attributes": {
-        "diving": null,
-        "handling": null,
-        "kicking": null,
-        "positioning": null,
-        "reflexes": null
+        "diving": None,
+        "handling": None,
+        "kicking": None,
+        "positioning": None,
+        "reflexes": None
       }
     },
     {
       "id": 92402,
       "resource_id": 100851841,
       "name": "Robert Lewandowski",
-      "age": null,
+      "age": None,
       "resource_base_id": 188545,
       "fut_bin_id": 27095,
       "fut_wiz_id": 18173,
@@ -1641,23 +1632,23 @@ for value in jogador["items"]:
       "last_name": "Lewandowski",
       "common_name": "Lewandowski",
       "height": 184,
-      "weight": null,
-      "birth_date": null,
+      "weight": None,
+      "birth_date": None,
       "league": 19,
       "nation": 37,
       "club": 21,
       "rarity": 3,
       "traits": [],
       "specialities": [],
-      "tradeable": true,
+      "tradeable": True,
       "position": "ST",
       "skill_moves": 4,
       "weak_foot": 4,
       "foot": "Right",
       "attack_work_rate": "HIGH",
       "defense_work_rate": "MED",
-      "total_stats": null,
-      "total_stats_in_game": null,
+      "total_stats": None,
+      "total_stats_in_game": None,
       "rating": 93,
       "rating_average": 79,
       "pace": 81,
@@ -1695,7 +1686,7 @@ for value in jogador["items"]:
         "composure": 90
       },
       "defending_attributes": {
-        "interceptions": null,
+        "interceptions": None,
         "heading_accuracy": 89,
         "standing_tackle": 44,
         "sliding_tackle": 20
@@ -1707,12 +1698,23 @@ for value in jogador["items"]:
         "aggression": 84
       },
       "goalkeeper_attributes": {
-        "diving": null,
-        "handling": null,
-        "kicking": null,
-        "positioning": null,
-        "reflexes": null
+        "diving": None,
+        "handling": None,
+        "kicking": None,
+        "positioning": None,
+        "reflexes": None
       }
     }
   ]
 }
+
+for value in jogador["items"]:
+  print(value["first_name"])
+  print(value["common_name"])
+  print(value["last_name"])
+  print(value["foot"])
+  print(value["name"])
+  print(value["shooting"])
+  print(value["passing"])
+  print(value["shooting_attributes"]["shot_power"])
+  print()
