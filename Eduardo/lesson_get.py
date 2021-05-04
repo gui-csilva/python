@@ -10,3 +10,5 @@ _params = { "page":"1",
 x = requests.get(url, headers=_headers, params=_params)
 
 jsonResposta = x.json()
+print(type(jsonResposta))
+print(jsonResposta)
