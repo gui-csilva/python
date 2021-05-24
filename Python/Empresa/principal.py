@@ -1,5 +1,5 @@
-import cargo
-import pessoa
+import Cargo
+import Pessoa
 
 estagiario = Cargo("estagiario", 1300.00, 20)
 secretaria = Cargo("secretaria", 2200.00, 40)
