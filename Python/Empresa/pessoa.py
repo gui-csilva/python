@@ -11,7 +11,7 @@ class Pessoa:
 		self.salario = salario
 
 	def printPessoa(self):
-		print(self.nome, "/", self.sexo, "/", self.idade)
+		print(self.nome, "/", self.sexo, "/", self.idade, "/", self.cep, "/", self.cpf, "/", self.rg, "/", self.telefone, "/", self.salario, "/", self.cargo)
 
 	def setSexo(self, sexo):
 		self.sexo = sexo

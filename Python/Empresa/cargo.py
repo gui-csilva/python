@@ -1,4 +1,4 @@
-class cargo:
+class Cargo:
 	def __init__(self, nome, mediaSalarial, horasTrabalhadas):
 		self.nome = nome
 		self.mediaSalarial = mediaSalarial
