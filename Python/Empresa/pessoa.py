@@ -9,6 +9,7 @@ class Pessoa:
 		self.rg = rg
 		self.telefone = telefone
 		self.salario = salario
+		self.cargo = cargo
 
 	def printPessoa(self):
 		print(self.nome, "/", self.sexo, "/", self.idade, "/", self.cep, "/", self.cpf, "/", self.rg, "/", self.telefone, "/", self.salario, "/", self.cargo)
