@@ -21,7 +21,7 @@ for value in funcionarios:
 	print("Salario: ", value.getSalario())
 	print("plr: ", pessoaRh.plr())
 	print("salarioComPlr: ", pessoaRh.salarioComPlr())
-	if random.randrange(1,3) == 20:
+	if random.randrange(1,3) == 2:
 		pessoaRh.setFerias(True)
 	if pessoaRh.getFerias() == True:
 		print("férias: ", pessoaRh.valorFerias())

@@ -7,7 +7,7 @@ class Rh:
 	def salarioComPlr(self):
 		salario = self.pessoa.getSalario()
 		bonus = self.pessoa.getSalario() * 2.5
-		# plr = salario + bonus
+		plr = salario + bonus
 		return plr
 
 	def plr(self):
@@ -15,16 +15,16 @@ class Rh:
 		return bonus
 
 	def setFerias(self, ferias):
-		ferias = ferias
+		self.ferias = ferias
 
 	def getFerias(self):
-		return ferias
+		return self.ferias
 
 	def valorFerias(self):
 		tercoSalario = self.pessoa.getSalario() / 3
 		return tercoSalario
 
 	def retornarSalarioComTerco(self):
-		tercoSalario = pessoa.getSalario() / 3
-		resultadoTerco = pessoa.getSalario() + tercoSalario
+		tercoSalario = self.pessoa.getSalario() / 3
+		resultadoTerco = self.pessoa.getSalario() + tercoSalario
 		return resultadoTerco
