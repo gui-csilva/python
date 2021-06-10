@@ -62,7 +62,7 @@ class Pessoa:
 	def getTelefone(self):
 		return self.telefone
 
-	def getSalario(self):
+	def getalario(self):
 		return self.salario
 
 	def getCargo(self):

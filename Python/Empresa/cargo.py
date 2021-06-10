@@ -15,7 +15,7 @@ class Cargo:
 
 	def aumentarPercentualSalario(self, percentual):
 		self.mediasalarial = self.mediasalarial + (self.mediaSalarial * (percentual/100) )
-		return self.getMediaSalarial()
+		return getMediaSalarial()
 
 	def setHorasTrabalhadas(self, horasNovas):
 		self.horasTrabalhadas = horasNovas
